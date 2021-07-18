@@ -1,6 +1,6 @@
 # Adventures-Ahead
 
-http://people-do-not-take-trips-trips-take-people.us/
+https://sleepy-tesla-2419d5.netlify.app/
 
 ## Inspiration
 
